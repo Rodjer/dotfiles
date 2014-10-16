@@ -5,8 +5,8 @@
 # - variables which is depended on, like LANGUAGE
 
 export DOTFILES_DIRECTORY="${HOME}/dotfiles"
-DOTFILES_TARBALL_PATH="https://github.com/pkruithof/dotfiles/tarball/master"
-DOTFILES_GIT_REMOTE="https://github.com/pkruithof/dotfiles"
+DOTFILES_TARBALL_PATH="https://github.com/Rodjer/dotfiles/tarball/master"
+DOTFILES_GIT_REMOTE="https://github.com/Rodjer/dotfiles"
 
 link() {
   # Force create/replace the symlink.
